@@ -1,0 +1,2 @@
+# Breast-Cancer-Detection
+Wrote a python scripts to detect the type of a cancer from the given data. From this we can detect whether the patient is in the malignant or benign stage. It is based on the supervised learning algorithm called linear regression by converting the given data into binary classification. In this project developed a mechanism to test the trained data with the present data to detect the type of cancer.
